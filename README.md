@@ -10,7 +10,7 @@ You have to accept competition rules before downloading of Dataset
 ## Performance Metrics
 
 ### Dice Co-efficient
-![](https://www.google.com/search?q=Dice+Coefficient&rlz=1C1CHBF_enPK861PK861&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiJ45mm8cjlAhWy4IUKHVAsBE0Q_AUIEigB&biw=1366&bih=576#imgrc=XpqBqNmYbC1rhM:)
+![](https://github.com/M-Tallal-Habib/Cloud-Type-Detection-using-Convolutional-Neural-Networks/blob/master/1cd52c46e9efaed7670655859a6f919e87a5f7a0.png)
 
 ## Insights of the Notebook for Quick View
 
