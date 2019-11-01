@@ -1,4 +1,4 @@
-# Cloud-Type-Detection-using-Convolutional-Neural-Networks
+# Cloud Type Detection with Segmentation using CNN (Segmentation Models)
 
 This repository includes the fully implemented Cloud Detection Model from Satellite Images using RESNET-18 a CNN architecture.
 The Competition was hosted by the [Max Planck Institute of Metreology](https://www.kaggle.com/c/understanding_cloud_organization) in Kaggle competition
@@ -14,7 +14,7 @@ You have to accept competition rules before downloading of Dataset
 
 ## Insights of the Notebook for Quick View
 
-### Sample Images with Augmentation 
+### Sample Images and their masks with Augmentation 
 ![](https://github.com/M-Tallal-Habib/Cloud-Type-Detection-using-Convolutional-Neural-Networks/blob/master/download.png)
 
 ### Training and Validation Dice Co-efficient
